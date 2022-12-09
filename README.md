@@ -10,6 +10,10 @@ I have many ideas I want to put to code as soon as I get the chance such as:
 
 ---
 
+## Current Project(s)
+
+
+---
 ## Skills
 
 ### Languages
