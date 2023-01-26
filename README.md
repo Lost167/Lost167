@@ -4,9 +4,9 @@ Hiya! I am Lost (I use [She/They](https://en.pronouns.page/@Lost167) pronouns), 
 ---
 
 I have many ideas I want to put to code as soon as I get the chance such as:
+- [ ] Fire Emblem: Engage Stat Growth Calculator and Planner (React app)
 - [ ] Pokemon Scarlet/Violet Isolated Encounters Map (React app) with [@sh0ckR6](https://github.com/sh0ckR6)
 - [ ] Pokemon Shiny Tracker (React app + Mobile app connectivity)
-- [ ] 
 
 ---
 
