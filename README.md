@@ -1,11 +1,13 @@
 # Introduction
-Hiya! I am Lost (I use [She/They](https://en.pronouns.page/@Lost167) pronouns), I'm currently a full-time Programmer Analyst Student (est. 2023)! I am a *newer* developer, mainly sticking to working with Web Applications (Vanilla JS, nodeJS and PHP7.4)
+Hey there, my name is Hannah ([She/Her](https://en.pronouns.page/@Lost167)), but I also go by Lost online, and I am a Programmer Analyst graduate from NBCC (2021-2023). 
+
+I would still consider myself a somewhat *newer* developer who mainly sticks to what I'm most comfortable with like Web Applications (Vanilla and Node JavaScript, and a bit of PHP), but I do want to branch out and become better at using languages I am not as good at like Java and C#!
 
 ---
 
 I have many ideas I want to put to code as soon as I get the chance such as:
-- [ ] Possible Roguelike/Roguelite with [@sh0ckR6](https://github.com/sh0ckR6) (still up in the air)
-- [ ] Achievement Tracker Discord Bot
+- [ ] A 2D RPG (details are still WIP, will update)
+- [ ] Minecraft Create Mod Addon (with a focus on adding more/better miners and quarries)
 
 ---
 
